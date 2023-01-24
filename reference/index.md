@@ -19,3 +19,6 @@ title: Reference
 * [Adobe InDesign](https://www.adobe.com/products/indesign.html)
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+
+### Articles
+* [The Wicked World of Packaging](https://re-nourish.org/16532/)
