@@ -189,10 +189,8 @@ Once the add and drop deadlines have passed, instructors do not have the authori
   <li><span class="date">Feb 20–Mar 24:</span> Mid-term Evaluation Period</li>
   <li><span class="date">Feb 28–Apr 3:</span> Selective Withdrawal Period (Undergraduate students only)</li>
   <li><span class="date">Mar 13–Mar 19:</span> Spring Break (no classes)</li>
-  <li><span class="date">Mar 31:</span> Incomplete Work from Fall 2022 Due </li>
-  to Instructor
-  <li><span class="date">Apr 7:</span> Incomplete Grades from Fall 2022 Due </li>
-  to Registrar
+  <li><span class="date">Mar 31:</span> Incomplete Work from Fall 2022 Due to Instructor</li>
+  <li><span class="date">Apr 7:</span> Incomplete Grades from Fall 2022 Due to Registrar</li>
   <li><span class="date">May 2:</span> Dissertation/Thesis Deadline</li>
   <li><span class="date">May 6:</span> Last Day of Class</li>
   <li><span class="date">May 8–9:</span> Reading Day(s)</li>
