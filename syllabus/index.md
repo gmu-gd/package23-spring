@@ -109,7 +109,7 @@ A note—Time management is an important skill to master and should be worked on
 The [schedule]({{ site.baseurl }}/schedule/) on this site is an outline of what we will be covering this spring. It is subject to additions and subtractions.
 
 ### Open Studio
-The design faculty will be hosting open studio hours in room 1023. When the open studio is open, you will have access to computers, a space to work, or get feedback and help from the faculty member in the room. The schedule will be posted on the door of 1023 and online at [https://art.gmu.edu/open-studio](art.gmu.edu/open-studio).
+The design faculty will be hosting open studio hours in room 1023. When the open studio is open, you will have access to computers, a space to work, or get feedback and help from the faculty member in the room. The schedule will be posted on the door of 1023 and online at [art.gmu.edu/open-studio](https://art.gmu.edu/open-studio).
 
 ### School of Art Social Media Accounts
 IG: gmusoa / FB: gmu.soa / TW: gmusoa
