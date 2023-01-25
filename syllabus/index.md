@@ -56,6 +56,7 @@ projects
 
 #### project 1: starter pack
 Create a starter kit that has, what you considered, the three most important items for a graphic designer. You can choose any items, but they must be able to fit into a package that you can design and build. You will also create a name and a visual identity for your package.
+
 #### project 2: form + function
 You and a partner will work on a sustainable package design together with the goals of minimizing the materials used for the packaging, minimizing the waste created by the production process, and designing a container that can be reused in some way that is relevant to the item it is containing. You will also create a visual identity and design for the packaging.
 
