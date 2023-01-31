@@ -22,7 +22,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 * The MIX orientation
 * Demo: Dielines
 * Demo: Laser Cutter
-* E2: MYOD
+* [E2: Package For]({{ site.baseurl }}/projects#e2)
 
 #### Due Next Class
 * E2: MYOD
@@ -31,7 +31,7 @@ This schedule is a rough outline for class each week. It is very subject to chan
 
 ### February 7 &mdash; Week 3
 #### Outline for the Day
-* E3: Package For?
+* E3: MYOD
 * Demo: Tinkercad
 * E4: Pair of Plants (Part I)
 * P1: Starter Pack
