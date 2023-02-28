@@ -12,8 +12,8 @@ title: Reference
 
 
 ### Dieline Books
-* [_Packaging Dielines I](https://issuu.com/designpackaging/docs/packaging-dielines-free-book-design)
-* [_Packaging Dielines II](https://issuu.com/designpackaging/docs/packaging-dielines-free-book-design_7fb37ab8a1c323)
+* [Packaging Dielines I](https://issuu.com/designpackaging/docs/packaging-dielines-free-book-design)
+* [Packaging Dielines II](https://issuu.com/designpackaging/docs/packaging-dielines-free-book-design_7fb37ab8a1c323)
 
 ### Software
 * [Tinkercad](https://www.tinkercad.com/)
