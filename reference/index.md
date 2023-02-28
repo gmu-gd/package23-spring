@@ -8,6 +8,7 @@ title: Reference
 * [European Packaging Design Association](https://www.epda-design.com/)
 * [The Dieline](https://thedieline.com/)
 * [Packaging of the World](https://packagingoftheworld.com/)
+* [boxes.py](https://www.festi.info/boxes.py/)
 
 
 ### Dieline Books
